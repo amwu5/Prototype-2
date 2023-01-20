@@ -250,6 +250,7 @@ MonoBehaviour:
   - {fileID: 8151781545388129979, guid: ee8a40c91409043d1a40527e14939598, type: 3}
   - {fileID: 4266585042020857026, guid: fd75b62ed005e4c27b38349733ccf011, type: 3}
   - {fileID: 3157947515558414113, guid: bbc5acbac046842159f465c8507f7d22, type: 3}
+  animalIndex: 1
 --- !u!4 &252317865
 Transform:
   m_ObjectHideFlags: 0
